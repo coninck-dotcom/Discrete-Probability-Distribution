@@ -51,5 +51,4 @@ Ao navegar pelo repositório, você encontrará a seguinte árvore:
 
 ## 👤 Autor
 
-* Maurício Koubay do Amaral, Jose Carlos Pereira Coninck
-* Desenvolvido por DAEST - Departamento Acadêmico de Estatística da UTFPR
+ Maurício Koubay do Amaral, Jose Carlos Pereira Coninck  (Desenvolvido por DAEST - Departamento Acadêmico de Estatística da UTFPR)
