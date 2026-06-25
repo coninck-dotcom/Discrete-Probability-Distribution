@@ -13,7 +13,7 @@ Modelos onde o espaço amostral é contável.
 *   **Modelos incluídos:** Uniforme Discreta, Bernoulli, Binomial, Poisson, Hipergeométrica, Binomial Negativa e Multinomial.
 *   *Foco:* Cálculo de PMF (Função de Massa de Probabilidade), CDF acumulada e gráficos de barras/frequência.
 
-### 2. 📈 Distribuições Contínuas (em breve)
+### 2. 📈 Distribuições Contínuas 
 Modelos aplicados a variáveis de escala contínua (tempo, peso, altura).
 *   **Modelos incluídos:** Uniforme Contínua, Gama, Exponencial, Normal (Gaussiana), Qui-Quadrado, t-Student, F de Snedecor, entre outras.
 
@@ -31,6 +31,14 @@ Ao navegar pelo repositório, você encontrará a seguinte árvore:
     │   └── 📁 Bernoulli / Binomial / ...
     └── 📁 R/
         └── 📁 Bernoulli / Binomial / ...
+
+.
+└── 📁 Continuous Probability Distributions/
+    ├── 📁 Python/
+    │   └── 📁 Uniforme Contínua / Gama / ...
+    └── 📁 R/
+        └── 📁 Uniforme Contínua / Gama / ...
+
 ```
 
 ---
