@@ -81,7 +81,7 @@ g2 <- ggplot(dados_maxwell, aes(x = x, y = Fx)) +
 # ==============================================================================
 # Exibir e salvar os gráficos lado a lado
 # ==============================================================================
-# grafico_final <- g1 + g2
+grafico_final <- g1 + g2
 x11()
 grafico_final
 # Salvar como JPEG
